@@ -1,2 +1,2 @@
-# ToDoListProgram
-Using C# for creating a To-Do List software.
+# OpenGL 3D Renderer
+Trying to make a basic 3D Shape Renderer in OpenGL.
